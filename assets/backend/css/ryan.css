@@ -1,0 +1,33 @@
+.wrap-btn-add{
+  margin-bottom: 25px;
+}
+.group-addon-mod{
+  background: #65cea7;
+  color:#fff;
+  border: 1px solid #65cea7;
+}
+.label-menu{
+  font-size: 17px;
+}
+.wrap-btn-check{
+  text-align: right;
+  margin-top: 20px;
+}
+.flat-green label{
+  color:#3CC8AD;
+}
+.flat-blue label{
+  color:#41B7F1;
+}
+.flat-red label{
+  color:#DB5554;
+}
+.title-nest{
+  display: inline-block;
+  width: 210px;
+  margin-right: 10px;
+  border-right: 2px solid #555;
+}
+.default-page{
+  display:none;
+}

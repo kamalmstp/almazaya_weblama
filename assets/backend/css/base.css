@@ -1,0 +1,9 @@
+.nicescroll-rails div{
+    width:15px !important;
+}
+.no-padding-left{
+    padding-left: 0px;
+}
+#ui-datepicker-div{
+    z-index:991 !important;
+}
